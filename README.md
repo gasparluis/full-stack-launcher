@@ -2,4 +2,4 @@
 
 1. npm instal em: root | front | backend
 
-2. npm run dev
+2. na root: npm run dev
