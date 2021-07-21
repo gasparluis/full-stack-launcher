@@ -1,5 +1,5 @@
 # full-stack-launcher
 
-npm instal em: root | front | backend
+1. npm instal em: root | front | backend
 
-npm run dev
+2. npm run dev
